@@ -20,5 +20,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
   ![eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&labelColor=0D1117)&nbsp;
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-0D1117?style=for-the-badge&logo=IntelliJ&labelColor=0D1117)&nbsp;
+  ![intellij](https://img.shields.io/badge/-intellij-0D1117?style=for-the-badge&logo=intellij&labelColor=0D1117)&nbsp;
+  ![netbeans](https://img.shields.io/badge/-netbeans-0D1117?style=for-the-badge&logo=netbeans&labelColor=0D1117)&nbsp;
   <div align="center">
