@@ -22,4 +22,7 @@
   ![eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&labelColor=0D1117)&nbsp;
   ![intellij](https://img.shields.io/badge/-intellij-0D1117?style=for-the-badge&logo=intellij&labelColor=0D1117)&nbsp;
   ![netbeans](https://img.shields.io/badge/-netbeans-0D1117?style=for-the-badge&logo=netbeans&labelColor=0D1117)&nbsp;
-  <div align="center">
+
+### Networks:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellencristinev/)
