@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is++Ellen;I'm+20+years+old;I+study+information+system+at+UAM;and+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ellencrist&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=191970text_color=4B0082&bg_color=0d1117" alt="Ellen Cristine  github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencrist&layout=compact&hide_border=true&title_color=ff1493text_color=00bfbf&bg_color=0d1117" />
+<div>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ellencrist&show_icons=true&hide_border=true&title_color=FF00FF&icon_color=191970text_color=4B0082&bg_color=0d1117" alt="Ellen Cristine  github stats"/> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencrist&layout=compact&hide_border=true&title_color=FF00FFtext_color=191970_color=4B0082&bg_color=0d1117"/>
 </div>
 
 ### Studying in this moment:
