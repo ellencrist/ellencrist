@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tauri&size=18&duration=3000&pause=1000&color=F4F4F7&repeat=false&width=435&lines=Programadora+em+desenvolvimento;%F0%9F%92%99Apaixonada+por+dados+e+tecnologia;%F0%9F%8E%AFAnalisar%2C+criar%2C+solucionar%2C+e+ganhar+tempo;Discente+em+Sistemas+de+informa%C3%A7%C3%A3o%F0%9F%8E%AF%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%E2%80%8A" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=3000&pause=1000&color=F4F4F7&repeat=false&width=554&lines=Programadora+em+desenvolvimento;%F0%9F%92%99Apaixonada+por+dados+e+tecnologia;%F0%9F%8E%AFAnalisar%2C+criar%2C+solucionar%2C+e+ganhar+tempo;%F0%9F%8E%93Discente+em+Sistemas+de+informa%C3%A7%C3%A3o%E2%80%8A;%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 <div>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ellencrist&show_icons=true&hide_border=true&title_color=FF00FF&icon_color=191970text_color=4B0082&bg_color=0d1117" alt="Ellen Cristine  github stats"/> 
   
