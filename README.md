@@ -27,11 +27,12 @@
 <img allt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
-
 ### Networks:
-
-
+<a href="https://trailblazer.me/id/ellencrist" target="blank"/>
+  <img src="https://uploaddeimagens.com.br/images/004/414/336/original/trailhead-flogo.png?1680304062" alt="trailblazer" widht="38px" height="40px">
+</a>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellencristinev/)
-[![Trailhead](https://uploaddeimagens.com.br/imagens/f-mnCNo)](https://trailblazer.me/id/ellencrist)
+
 ![snake](https://github.com/ellencrist/ellencrist/blob/output/github-contribution-grid-snake.svg)
 
