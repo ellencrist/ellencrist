@@ -30,7 +30,8 @@
 
 ### Networks:
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellencristinev/)
-![Trailhead](https://trailblazer.me/id/ellencrist)
+[![Trailhead](https://uploaddeimagens.com.br/imagens/f-mnCNo)](https://trailblazer.me/id/ellencrist)
 ![snake](https://github.com/ellencrist/ellencrist/blob/output/github-contribution-grid-snake.svg)
 
