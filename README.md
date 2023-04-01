@@ -28,10 +28,7 @@
 
 
 ### Networks:
-<a href="https://trailblazer.me/id/ellencrist" target="blank"/>
-  <img src="https://uploaddeimagens.com.br/images/004/414/538/original/Imagem2nn.jpg?1680349837" alt="trailblazer" widht="9px" height="25px">
-</a>
-
+<a href="https://trailblazer.me/id/ellencrist" target="blank"/><img src="https://uploaddeimagens.com.br/images/004/414/538/original/Imagem2nn.jpg?1680349837" alt="trailblazer" widht="11px" height="24px"></a>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellencristinev/)
 
