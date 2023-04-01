@@ -29,10 +29,11 @@
 
 ### Networks:
 <a href="https://trailblazer.me/id/ellencrist" target="blank"/>
-  <img src="https://uploaddeimagens.com.br/images/004/414/336/original/trailhead-flogo.png?1680304062" alt="trailblazer" widht="38px" height="40px">
+  <img src="https://uploaddeimagens.com.br/images/004/414/538/original/Imagem2nn.jpg?1680349837" alt="trailblazer" widht="9px" height="25px">
 </a>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellencristinev/)
+
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellencristinev/)
 
 ![snake](https://github.com/ellencrist/ellencrist/blob/output/github-contribution-grid-snake.svg)
 
