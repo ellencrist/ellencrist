@@ -25,6 +25,7 @@
 <img alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img  alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img allt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" />
+![Genexus](https://img.shields.io/badge/-GeneXus%2017-0D1117?style=for-the-badge&logo=GeneXus&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
 
 ### Networks:
