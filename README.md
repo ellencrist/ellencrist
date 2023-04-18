@@ -20,16 +20,14 @@
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![netbeans](https://img.shields.io/badge/-netbeans-0D1117?style=for-the-badge&logo=netbeans&labelColor=0D1117)&nbsp;
+![netbeans](https://img.shields.io/badge/-Netbeans-0D1117?style=for-the-badge&logo=apache-netbeans-ide&labelColor=0D1117)&nbsp;
 <img alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img  alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img allt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" />
-![Genexus](https://img.shields.io/badge/-GeneXus%2017%20-0D1117?style=for-the-badge&logo=GeneXus&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117&color=0D1117">
+![GeneXus](https://img.shields.io/badge/-genexus-0D1117?style=for-the-badge&logo=genexus&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![PowerBi](https://img.shields.io/badge/-PowerBi%20-0D1117?style=for-the-badge&logo=PowerBi&logoColor=FFFFFF&labelColor=FFFF0)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel%20-0D1117?style=for-the-badge&logo=Excel&logoColor=32CD32&labelColor=0D1117)&nbsp;
-![VisualBasic](https://img.shields.io/badge/-Visual%20Basic%20-0D1117?style=for-the-badge&logo=Microsoft-Visual-Basic&logoColor=007ACC&labelColor=0D1117)&nbsp;
-
+ <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117&color=0D1117">
+<img src="https://img.shields.io/badge/Visual%20Basic-0D1117?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0D1117&color=0D1117">
 
 ![snake](https://github.com/ellencrist/ellencrist/blob/output/github-contribution-grid-snake.svg)
 
