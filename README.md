@@ -18,21 +18,18 @@
 
   
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![netbeans](https://img.shields.io/badge/-netbeans-0D1117?style=for-the-badge&logo=netbeans&labelColor=0D1117)&nbsp;
 <img alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img  alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img allt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" />
-![Genexus](https://img.shields.io/badge/-GeneXus%2017-0D1117?style=for-the-badge&logo=GeneXus&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Genexus](https://img.shields.io/badge/-GeneXus%2017%20-0D1117?style=for-the-badge&logo=GeneXus&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![PowerBi](https://img.shields.io/badge/-PowerBi%20-0D1117?style=for-the-badge&logo=PowerBi&logoColor=FFFFFF&labelColor=FFFF0)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel%20-0D1117?style=for-the-badge&logo=Excel&logoColor=32CD32&labelColor=0D1117)&nbsp;
+![VisualBasic](https://img.shields.io/badge/-Visual%20Basic%20-0D1117?style=for-the-badge&logo=Microsoft-Visual-Basic&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
-
-### Networks:
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellencristinev/)
- 
- <a href="https://trailblazer.me/id/ellencrist" target="blank"/><img src="https://uploaddeimagens.com.br/images/004/414/538/original/Imagem2nn.jpg?1680349837" alt="trailblazer" widht="11px" height="24,5px"></a>
 
 ![snake](https://github.com/ellencrist/ellencrist/blob/output/github-contribution-grid-snake.svg)
 
