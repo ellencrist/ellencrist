@@ -29,5 +29,3 @@
 </div>
 
 ![snake](https://github.com/ellencrist/ellencrist/blob/output/github-contribution-grid-snake.svg)
-
-
