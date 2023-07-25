@@ -27,3 +27,6 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencrist&layout=compact&hide_border=true&title_color=FF00FFtext_color=191970_color=4B0082&bg_color=0d1117"/>
 </div>
+
+#
+[![Spotify](https://novatorem-i01u3kuhz-ellencrist.vercel.app/api/spotify)](https://open.spotify.com/user/ellencrist)
