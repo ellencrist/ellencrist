@@ -1,6 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&duration=3000&pause=1000&color=F4F4F7&repeat=true&width=554&lines=%F0%9F%8C%B1+Programmer+in+development;%F0%9F%92%99Passionate+about+data+and+technology;%F0%9F%8E%AFAnalyze%2C+create%2C+solver%2C+and+save+time;%F0%9F%8E%93Student+Information+Systems;%F0%9F%87%A7%F0%9F%87%B7+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG"/></a>
 
-<a href="https://uploaddeimagens.com.br/images/004/386/749/original/port.gif?1678567007"><img src="https://uploaddeimagens.com.br/images/004/386/749/original/port.gif?1678567007" alt="readme-gif" border="0" height="333px" width="2000px"></a>
+<p align="center">
+  <img width="27%" height="150px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/super-mario-rock-and-roll-head-unscreen.gif?raw=true"/>
+  <a href="https://open.spotify.com/playlist/2ycm4NMyOUfDe0i3I4oHMm">
+    <img src="https://novatorem-t57o-1wqrp0fy7-ellencrist.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</p>
+
 
 ### Studying in this moment:
 <div style="display: inline_block">
@@ -27,6 +33,3 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencrist&layout=compact&hide_border=true&title_color=FF00FFtext_color=191970_color=4B0082&bg_color=0d1117"/>
 </div>
-
-
-<img  width="27%" height="150px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/super-mario-rock-and-roll-head-unscreen.gif?raw=true"/> [![Spotify](https://novatorem-t57o-1wqrp0fy7-ellencrist.vercel.app/api/spotify)](https://open.spotify.com/playlist/2ycm4NMyOUfDe0i3I4oHMm)
