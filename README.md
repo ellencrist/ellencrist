@@ -1,6 +1,6 @@
 <div>
   <p><strong><font color="orange">💻 Programmer in development passionate about technology and data.</font></strong></p>
-  <p><strong><font color="orange">🎓 Studying Information Systems.</font></strong></p>
+  <p><strong><font color="orange">🎓 Student of Information Systems, Data Engineering and Data Analysis.</font></strong></p>
   <p><strong><font color="orange">🎯 My projects are focused on the use of programming languages to assist in analysis, develop interactive solutions, automate processes and save time.</font></strong></p>
 </div>
 
