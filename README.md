@@ -1,8 +1,10 @@
 <div>
   <p><strong><font color="orange">💻 Programmer in development passionate about technology and data.</font></strong></p>
   <p><strong><font color="orange">🎓 Student of Information Systems, Data Engineering and Data Analysis.</font></strong></p>
-  <p><strong><font color="orange">🎯 My projects are focused on the use of programming languages to assist in analysis, develop interactive solutions, automate processes and save time.</font></strong></p>
+  <p><strong><font color="orange">🎯 My projects are focused on the use of programming languages to assist in analysis, develop interactive solutions, automate processes and save time.</font></strong></p
+  <p><strong><font color="orange">🌻21 years of life, 365 days of diving into lines of code</font></strong></p>
 </div>
+
 
   #
 <p align="center">
@@ -27,6 +29,7 @@
   <img src="https://img.shields.io/badge/-PowerBi%20-0D1117?style=for-the-badge&logo=PowerBi&logoColor=FFFFFF&labelColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117&color=0D1117">
   <img src="https://img.shields.io/badge/Visual%20Basic-0D1117?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0D1117&color=0D1117">
+  <img src="https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=Trello&logoColor=white&labelColor=0D1117&color=0D1117">
 </div>
 
 <div style="display: inline_block" align="center">
@@ -45,4 +48,10 @@
 <div>
   
   <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencrist&layout=compact&theme=radical" alt="Top Languages"/>
+  <a href="https://linkedin/in/ellencristinev" target="_blank">
+   <img width="12%" height="90px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/1656994981linkedin-icon-png.png?raw=true" alt="gmail"/>
+</a>
+ <a href="mailto:ellenrctr@gmail.com">
+   <img width="12%" height="90px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/1657906274logo-gmail-png.png?raw=true" alt="gmail"/>
+</a>
 </div>
