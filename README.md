@@ -48,7 +48,7 @@
 <div>
   
   <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencrist&layout=compact&theme=radical" alt="Top Languages"/>
-  <a href="https://linkedin/in/ellencristinev" target="_blank">
+  <a href="https://www.linkedin.com/in/ellencristinev/" target="_blank">
    <img width="12%" height="90px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/1656994981linkedin-icon-png.png?raw=true" alt="gmail"/>
 </a>
  <a href="mailto:ellenrctr@gmail.com">
