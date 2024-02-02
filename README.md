@@ -1,24 +1,20 @@
 <div>
-  <p><strong><font color="orange">💻 Programmer in development passionate about technology and data.</font></strong></p>
-  <p><strong><font color="orange">🎓 Student of Information Systems, Data Engineering and Data Analysis.</font></strong></p>
-  <p><strong><font color="orange">🎯 My projects are focused on the use of programming languages to assist in analysis, develop interactive solutions, automate processes and save time.</font></strong></p
-  <p><strong><font color="orange">🌻21 years of life, 365 days of diving into lines of code</font></strong></p>
+    <p><strong><font color="orange">💻 Programmer in development passionate about technology and data.</font></strong></p>
+    <p><strong><font color="orange">🎓 Student of Information Systems, Data Engineering and Data Analysis.</font></strong></p>
+    <p><strong><font color="orange">🎯 My projects are focused on the use of programming languages to assist in analysis, develop interactive solutions, automate processes and save time.</font>      </strong></p
+    <p><strong><font color="orange">🌻21 years of life, 365 days of diving into lines of code</font></strong></p>
 </div>
+<a href="mailto:ellenrctr@email.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="70" height="22">
+</a>
+<a href="https://www.linkedin.com/in/ellencristinev/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" width="71" height="22">
+</a>
 
-
-  #
-<p align="center">
-  <img width="27%" height="150px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/super-mario-rock-and-roll-head-unscreen.gif?raw=true"/>
-  <a href="https://open.spotify.com/playlist/2ycm4NMyOUfDe0i3I4oHMm" >
-    <img src="https://novatorem-t57o-1wqrp0fy7-ellencrist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
-  </a>
-</p>
-<br>
+#
 <p align="center">
 <img width="55%" height="50px" src="https://uploaddeimagens.com.br/images/004/572/079/original/Captura_de_tela_2023-08-09_235807-removebg-preview.png?1691638076"/>
 </p>
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF&labelColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117">&nbsp;
@@ -44,14 +40,10 @@
 </div>
 <br>
 
-#
-<div>
-  
-  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencrist&layout=compact&theme=radical" alt="Top Languages"/>
-  <a href="https://www.linkedin.com/in/ellencristinev/" target="_blank">
-   <img width="12%" height="90px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/1656994981linkedin-icon-png.png?raw=true" alt="gmail"/>
-</a>
- <a href="mailto:ellenrctr@gmail.com">
-   <img width="12%" height="90px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/1657906274logo-gmail-png.png?raw=true" alt="gmail"/>
-</a>
-</div>
+<p align="center">
+  <img width="27%" height="150px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/super-mario-rock-and-roll-head-unscreen.gif?raw=true"/>
+  <a href="https://open.spotify.com/playlist/2ycm4NMyOUfDe0i3I4oHMm" >
+    <img src="https://novatorem-t57o-1wqrp0fy7-ellencrist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
+  </a>
+</p>
+<br>
