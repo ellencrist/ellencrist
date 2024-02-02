@@ -38,12 +38,11 @@
    <img align="center" alt="mySQL" height="49" width="48" src="https://www.daniviana.com/imgs/icons/SQL%20Icon.png">
   <img align="center" alt="R" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 </div>
-<br>
 
+#
 <p align="center">
-  <img width="27%" height="150px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/super-mario-rock-and-roll-head-unscreen.gif?raw=true"/>
-  <a href="https://open.spotify.com/playlist/2ycm4NMyOUfDe0i3I4oHMm" >
-    <img src="https://novatorem-t57o-1wqrp0fy7-ellencrist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
-  </a>
-</p>
-<br>
+      <img width="27%" height="150px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/super-mario-rock-and-roll-head-unscreen.gif?raw=true"/>
+      <a href="https://open.spotify.com/playlist/2ycm4NMyOUfDe0i3I4oHMm" >
+        <img src="https://novatorem-t57o-1wqrp0fy7-ellencrist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
+      </a>
+    </p>
