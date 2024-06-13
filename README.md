@@ -2,7 +2,7 @@
     <p><strong><font color="orange">💻 Programmer in development passionate about technology and data.</font></strong></p>
     <p><strong><font color="orange">🎓 Student of Information Systems, Data Engineering and Data Analysis.</font></strong></p>
     <p><strong><font color="orange">🎯 My projects are focused on the use of programming languages to assist in analysis, develop interactive solutions, automate processes and save time.</font>      </strong></p
-    <p><strong><font color="orange">🌻21 years of life, 365 days of diving into lines of code</font></strong></p>
+    <p><strong><font color="orange">🌻22 years of life, 365 days of diving into lines of code</font></strong></p>
 </div>
 <a href="mailto:ellencrist_@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="70" height="22">
