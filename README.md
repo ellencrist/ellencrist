@@ -4,7 +4,7 @@
     <p><strong><font color="orange">🎯 My projects are focused on the use of programming languages to assist in analysis, develop interactive solutions, automate processes and save time.</font>      </strong></p
     <p><strong><font color="orange">🌻21 years of life, 365 days of diving into lines of code</font></strong></p>
 </div>
-<a href="mailto:ellenrctr@email.com">
+<a href="mailto:ellencrist_@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="70" height="22">
 </a>
 <a href="https://www.linkedin.com/in/ellencristinev/">
