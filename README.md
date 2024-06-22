@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/-Netbeans-0D1117?style=for-the-badge&logo=apache-netbeans-ide&labelColor=0D1117">&nbsp;
   <img alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white">
   <img alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/-genexus-0D1117?style=for-the-badge&logo=genexus&logoColor=007ACC&labelColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-PowerBi%20-0D1117?style=for-the-badge&logo=PowerBi&logoColor=FFFFFF&labelColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117&color=0D1117">
   <img src="https://img.shields.io/badge/Visual%20Basic-0D1117?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0D1117&color=0D1117">
