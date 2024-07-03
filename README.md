@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Visual%20Basic-0D1117?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0D1117&color=0D1117">
   <img src="https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=Trello&logoColor=white&labelColor=0D1117&color=0D1117">
   <img src="https://img.shields.io/badge/aws_cloud-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117&color=0D1117">
-  <img src="https://img.shields.io/badge/Salesforce_developer-0D1117?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0D1117&color=0D1117">
+  <img src="https://img.shields.io/badge/Salesforce_developer🐻-0D1117?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0D1117&color=0D1117">
 </div>
 
 <div style="display: inline_block" align="center">
