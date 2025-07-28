@@ -1,8 +1,8 @@
 <div>
-    <p><strong><font color="orange">💻 Programmer in development passionate about technology and data.</font></strong></p>
-    <p><strong><font color="orange">🎓 Student of Information Systems, Data Engineering and Data Analysis.</font></strong></p>
-    <p><strong><font color="orange">🎯 My projects are focused on the use of programming languages to assist in analysis, develop interactive solutions, automate processes and save time.</font>      </strong></p
-    <p><strong><font color="orange">🌻22 years of life, 365 days of diving into lines of code</font></strong></p>
+    <p><strong><font color="orange">🌱 Programmer in development.</font></strong></p>
+    <p><strong><font color="orange">💻 Software engineer, also a data engineering enthusiast.</font></strong></p>
+    <p><strong><font color="orange">🎯 My goal is to use programming to solve problems, develop with a focus on best practices, automate processes, and save time..</font>      </strong></p
+    <p><strong><font color="orange">🌻23 years of life, 365 days of diving into lines of code</font></strong></p>
 </div>
 <a href="mailto:ellencrist_@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="70" height="22">
@@ -13,7 +13,7 @@
 
 #
 <p align="center">
-<img width="55%" height="50px" src="https://uploaddeimagens.com.br/images/004/572/079/original/Captura_de_tela_2023-08-09_235807-removebg-preview.png?1691638076"/>
+<img width="55%" height="50px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/tech-and-tools.png"/>
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117">&nbsp;
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/-PowerBi%20-0D1117?style=for-the-badge&logo=PowerBi&logoColor=FFFFFF&labelColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117&color=0D1117">
   <img src="https://img.shields.io/badge/Visual%20Basic-0D1117?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0D1117&color=0D1117">
-  <img src="https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=Trello&logoColor=white&labelColor=0D1117&color=0D1117">
   <img src="https://img.shields.io/badge/aws_cloud-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117&color=0D1117">
   <img src="https://img.shields.io/badge/Salesforce_developer🐻-0D1117?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0D1117&color=0D1117">
 </div>
@@ -45,7 +44,7 @@
 <p align="center">
     <img width="27%" height="150px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/super-mario-rock-and-roll-head-unscreen.gif?raw=true"/>
     <a href="https://open.spotify.com/playlist/2ycm4NMyOUfDe0i3I4oHMm">
-        <img src="https://novatorem-t57o-1wqrp0fy7-ellencrist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify"/>
+        <img src="https://novatorem-t57o-1wqrp0fy7-ellencrist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="My Spotify Playlist"/>
     </a>
 </p>
 
