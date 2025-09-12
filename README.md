@@ -1,49 +1,59 @@
 <div>
-    <p><strong><font color="orange">✨ Hi, I'm Ellen. I love cappuccino, gaming, playing music, and technology</font></strong></p>
-    <p><strong><font color="orange">💻 I work as a back-end software engineer, and I am a data engineering enthusiast.</font></strong></p>
-    <p><strong><font color="orange">🎯 My goal is to use programming to solve problems, develop with a focus on best practices, automate processes, and save time..</font>      </strong></p
+    <p align="center" font-weight:bold;">✨ 𝑯𝒊, 𝑰'𝒎 𝑬𝒍𝒍𝒆𝒏. 𝑰 𝒍𝒐𝒗𝒆 𝒄𝒂𝒑𝒑𝒖𝒄𝒄𝒊𝒏𝒐, 𝒈𝒂𝒎𝒊𝒏𝒈, 𝒑𝒍𝒂𝒚𝒊𝒏𝒈 𝒎𝒖𝒔𝒊𝒄, 𝒂𝒏𝒅 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚.</p>
+    <p align="center" style="color:#9b59b6; font-weight:bold;">💻 𝖨 𝗐𝗈𝗋𝗄 𝖺𝗌 𝖺 𝖻𝖺𝖼𝗄-𝖾𝗇𝖽 𝗌𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋, 𝖺𝗇𝖽 𝖨 𝖺𝗆 𝖺 𝖽𝖺𝗍𝖺 𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 𝖾𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍.</p></h3>
+    <p align="center" style="color:#9b59b6; font-weight:bold;">🎯 𝖬𝗒 𝗀𝗈𝖺𝗅 𝗂𝗌 𝗍𝗈 𝗎𝗌𝖾 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀 𝗍𝗈 𝗌𝗈𝗅𝗏𝖾 𝗉𝗋𝗈𝖻𝗅𝖾𝗆𝗌, 𝖽𝖾𝗏𝖾𝗅𝗈𝗉 𝗐𝗂𝗍𝗁 𝖺 𝖿𝗈𝖼𝗎𝗌 𝗈𝗇 𝖻𝖾𝗌𝗍 𝗉𝗋𝖺𝖼𝗍𝗂𝖼𝖾𝗌, 𝖺𝗎𝗍𝗈𝗆𝖺𝗍𝖾 𝗉𝗋𝗈𝖼𝖾𝗌𝗌𝖾𝗌, 𝖺𝗇𝖽 𝗌𝖺𝗏𝖾 𝗍𝗂𝗆𝖾.</p>
 </div>
-<a href="mailto:ellencrist_@outlook.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="70" height="22">
-</a>
-<a href="https://www.linkedin.com/in/ellencristinev/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" width="71" height="22">
-</a>
+<div align="center">
+  <a href="https://linkedin.com/in/ellencristinev" target="_blank">
+    <code><img src="https://img.shields.io/badge/-LinkedIn-6e48aa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4B6CB7"></code>
+  </a>
+  <a href="mailto:ellen.dev@outlook.com">
+    <code><img src="https://img.shields.io/badge/-Mail-6e48aa?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=4B6CB7"></code>
+  </a>
+</div>
 
 #
+
 <p align="center">
 <img width="55%" height="50px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/tech-and-tools.png"/>
 </p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Netbeans-0D1117?style=for-the-badge&logo=apache-netbeans-ide&labelColor=0D1117">&nbsp;
-  <img alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img alt="INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/-PowerBi%20-0D1117?style=for-the-badge&logo=PowerBi&logoColor=FFFFFF&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117&color=0D1117">
-  <img src="https://img.shields.io/badge/Visual%20Basic-0D1117?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=0D1117&color=0D1117">
-  <img src="https://img.shields.io/badge/aws_cloud-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117&color=0D1117">
-  <img src="https://img.shields.io/badge/Salesforce_developer🐻-0D1117?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0D1117&color=0D1117">
-</div>
+<br>
 
-<div style="display: inline_block" align="center">
-  <br>
-  <img height="60" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/giffinal01.gif?raw=true"/> 
-  <br>
-       <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-      <img align="center" alt="python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="R" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-        <img align="center" alt="SQL" height="49" width="48" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/sql.png?raw=true">
-      <img align="center" alt="mySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <code><img height="54" src="https://img.icons8.com/?size=128&id=FRRACRKRsw2s&format=png"></code>
+    <code><img height="54" src="https://img.icons8.com/?size=128&id=ouWtcsgDBiwO&format=png"></code>
+    <code><img height="54" src="https://img.icons8.com/?size=128&id=uLDrtp8o8zTG&format=png"></code>
+
 </div>
+<br>
+<div align="center">
+<!-- Cloud & Infraestrutura -->
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-0D1117?style=for-the-badge&logo=aws&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117">&nbsp;
+
+<!-- Ferramentas de Desenvolvimento -->
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/OpenAPI-0D1117?style=for-the-badge&logo=openapiinitiative&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge&logo=swagger&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117">&nbsp;
+
+<!-- Dados & Ciência -->
+<img src="https://img.shields.io/badge/Anaconda-0D1117?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/Google_Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117">&nbsp;
+
 
 #
 <p align="center">
     <img width="27%" height="150px" src="https://github.com/ellencrist/ellencrist/blob/main/img_R/super-mario-rock-and-roll-head-unscreen.gif?raw=true"/>
     <a href="https://open.spotify.com/playlist/2ycm4NMyOUfDe0i3I4oHMm">
-        <img src="https://novatorem-t57o-1wqrp0fy7-ellencrist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="My Spotify Playlist"/>
+        <img src="https://novatorem-t57o-1wqrp0fy7-ellencrist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="I program while listening to:"/>
     </a>
 </p>
 
