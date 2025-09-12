@@ -1,8 +1,7 @@
 <div>
-    <p><strong><font color="orange">🌱 Programmer in development.</font></strong></p>
-    <p><strong><font color="orange">💻 Software engineer, also a data engineering enthusiast.</font></strong></p>
+    <p><strong><font color="orange">✨ Hi, I'm Ellen. I love cappuccino, gaming, playing music, and technology</font></strong></p>
+    <p><strong><font color="orange">💻 I work as a back-end software engineer, and I am a data engineering enthusiast.</font></strong></p>
     <p><strong><font color="orange">🎯 My goal is to use programming to solve problems, develop with a focus on best practices, automate processes, and save time..</font>      </strong></p
-    <p><strong><font color="orange">🌻23 years of life, 365 days of diving into lines of code</font></strong></p>
 </div>
 <a href="mailto:ellencrist_@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="70" height="22">
